@@ -20,7 +20,7 @@ public class SingletonTest {
 
         //참조값이 다른 것을 확인
         System.out.println("membrService1 = " + memberService1);
-        System.out.println("membrService2 = " + memberService2);
+        System.out.println("membrService3 = " + memberService2);
 
 
         //memberService1 != memberService2
